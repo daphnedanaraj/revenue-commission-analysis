@@ -80,7 +80,7 @@ The **Revenue & Commission Analysis Dashboard** allows users to explore sales pe
 1. **Download the Files**:
    - Clone this repository to your local machine using the command:
      ```bash
-     git clone https://github.com/yourusername/your-repository-name.git
+     git clone https://github.com/daphnedanaraj/revenue-commission-analysis.git
      ```
    - Open the **Revenue & Commission Analysis Dashboard.pbix** file in **Power BI Desktop**.
 
